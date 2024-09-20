@@ -1,3 +1,5 @@
+package at.mhilti5.swp.if_condition;
+
 import java.util.Random;
 
 public class If {
