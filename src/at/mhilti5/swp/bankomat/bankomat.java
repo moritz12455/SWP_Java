@@ -19,12 +19,12 @@ public class bankomat {
                 System.out.println("Geben sie denn Betrag ein denn sie einzahlen möchten");
                 int einzahlBetrag = scanner.nextInt();
                 kontostand += einzahlBetrag;
-                System.out.println("Sie haben " + kontostand + "$ eingezahlt");
+                System.out.println("Sie haben " + einzahlBetrag + "$ eingezahlt");
             } else if (option == 2) {
                 System.out.println("Geben sie denn Betrag ein denn sie auszahlen möchten");
                 int auszahlBetrag = scanner.nextInt();
                 kontostand -= auszahlBetrag;
-                System.out.println("Sie haben " + kontostand + "$ ausgezahlt");
+                System.out.println("Sie haben " + auszahlBetrag + "$ ausgezahlt");
             } else if (option == 3) {
                 System.out.println("Ihr Kontostand beträgt " + kontostand + "$");
             } else if (option == 4) {
