@@ -11,7 +11,7 @@ public class WürfelSpiel {
     int computerCounter = 0;
     int playerCounter = 0;
     Random random = new Random();
-        Scanner scanner = new Scanner(System.in);
+    Scanner scanner = new Scanner(System.in);
     while(!isFinished2){
 
 
