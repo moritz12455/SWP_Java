@@ -1,6 +1,6 @@
 package at.mhilti5.swp.KW_1.Figures;
 
-public class Figurendemo {
+public class figurdemo {
     public static void main(String[] args) {
         Figur fig = new Figur(50.0, 50.0);
         System.out.println();
