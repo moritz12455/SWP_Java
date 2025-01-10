@@ -9,7 +9,9 @@ public class guesswords {
         Scanner scanner = new Scanner(System.in);
 
 
-    } public static String guesswords(String[] args){
-        
     }
+
+    //public static String guesswords(String[] args){
+        
+    //}
 }
