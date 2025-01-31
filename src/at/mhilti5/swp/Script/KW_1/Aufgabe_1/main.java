@@ -1,4 +1,4 @@
-package at.mhilti5.swp.KW_1.Aufgabe_1;
+package at.mhilti5.swp.Script.KW_1.Aufgabe_1;
 
 public class main {
     public static void main(String[] args) {

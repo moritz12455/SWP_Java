@@ -1,4 +1,4 @@
-package at.mhilti5.swp.KW_1.Figures;
+package at.mhilti5.swp.Script.KW_1.Figures;
 
 public class Figur {
     protected double xpos = 100.0, ypos = 100.0;

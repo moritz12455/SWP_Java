@@ -1,4 +1,4 @@
-package at.mhilti5.swp.KW_1.Aufgabe_2;
+package at.mhilti5.swp.Script.KW_1.Aufgabe_2;
 
 class Rectangle extends Shape {
     private double length;

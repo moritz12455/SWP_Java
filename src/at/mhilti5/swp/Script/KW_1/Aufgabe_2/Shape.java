@@ -1,4 +1,4 @@
-package at.mhilti5.swp.KW_1.Aufgabe_2;
+package at.mhilti5.swp.Script.KW_1.Aufgabe_2;
 
 public class Shape {
     protected double area(){

@@ -1,4 +1,4 @@
-package at.mhilti5.swp.KW_1.Aufgabe_1;
+package at.mhilti5.swp.Script.KW_1.Aufgabe_1;
 
 public class Car extends Vehicle {
     private int numberOfDoors;

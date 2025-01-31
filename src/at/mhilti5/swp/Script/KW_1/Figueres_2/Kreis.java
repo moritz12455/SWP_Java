@@ -1,4 +1,4 @@
-package at.mhilti5.swp.KW_1.Figueres_2;
+package at.mhilti5.swp.Script.KW_1.Figueres_2;
 
 public class Kreis extends Figur {
     protected double radius = 50.0;
